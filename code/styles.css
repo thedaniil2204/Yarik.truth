@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@400;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Baloo+2:wght@400;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@400;600&display=swap');
+body {
+    background-color: rgb(255, 150, 90);
+    color: black;
+
+    /* font-family: 'Quicksand', sans-serif; */
+    /* font-family: 'Fredoka', sans-serif; */
+      font-family: 'Baloo 2', cursive;   
+}
+
+.container{
+    max-width: 750px;
+    margin: auto;
+}
